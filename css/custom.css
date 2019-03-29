@@ -64,8 +64,7 @@
 /* Values
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .values {
-  background-image: url('../images/vojacek_mix.jpg');
-  background-attachment: fixed;
+  background-image: url('../images/vojacek.jpg');
   color: #fff;
   padding-bottom: 5rem;
 }
@@ -420,7 +419,7 @@
   width: 20%;
   margin: auto;
   border-radius: 50%;
-  background: rgba(255, 255, 255, 0.3);
+  background: rgba(255, 255, 255, 0.7);
   padding: 7rem;
 }
 
